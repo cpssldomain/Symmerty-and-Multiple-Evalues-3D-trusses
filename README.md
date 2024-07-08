@@ -1,7 +1,7 @@
 # Symmetry and Differentiability of Multiple Evals: 3D Truss
 
 ## 1. Published Matlab Script
-**Link:** [Published script for this project](html/main.html) <br /><br />
+**Link:**[ [Published script for this project](html/main.html)](https://htmlpreview.github.io/?https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/blob/main/html/main.html) <br /><br />
 **Preview:** 
 ![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/61d9da4c-8479-441f-8063-8f389a22db5c)
 
