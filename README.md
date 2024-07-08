@@ -3,24 +3,25 @@
 ## 1. Published Matlab Script
 **Link:** [Published script for this project](html/main.html) <br /><br />
 **Preview:** 
-![image](https://github.com/ShiyaoSun123/FiniteElementTopoptLibrary/assets/119257562/4112bbe8-57c5-4dbe-84db-a42483a95fea)
+![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/61d9da4c-8479-441f-8063-8f389a22db5c)
+
 
 ## 2. Functionalities
 ### 2.a Truss Geometry
 **Example:**
-![image](https://github.com/ShiyaoSun123/FiniteElementTopoptLibrary/assets/119257562/6a26de7f-e609-4e45-9f50-7ddd4fb0d2f4)
+![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/13e34330-0fa4-4252-9d7c-a8950a4b11e0)
 
 ### 2.b Set Design Variable Symmetry
 **Example:**
-![image](https://github.com/ShiyaoSun123/FiniteElementTopoptLibrary/assets/119257562/1a6273be-40cb-4ad3-bfe4-213d038030d8)
+![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/5ccd5344-5892-4dbe-8006-c1fea9dc929c)
 
 ### 2.c Eigen-analysis
 **Example:**
-![image](https://github.com/ShiyaoSun123/FiniteElementTopoptLibrary/assets/119257562/8261f9d4-b132-4d5f-b817-306d4be9e86b)
+![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/a470d0d2-aa31-4893-ad6e-f826ddf075d2)
 
 ### 2.d Eigenvalue Sensitivity Check
 **Example:**
-![image](https://github.com/ShiyaoSun123/FiniteElementTopoptLibrary/assets/119257562/747ca42e-1c3f-40c8-a165-097c12296c11)
+![image](https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/assets/174971818/42468ce6-62d2-4555-ba41-79f964c0062f)
 
 ## 3. Key Functions
 ### 3.a Plot Truss Nodes
