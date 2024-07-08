@@ -142,6 +142,6 @@ If you've used this work in your research or find it useful in any way, please c
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/williamhunter/topy}},
+  howpublished = {\url{https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses}},
   }
 ```
