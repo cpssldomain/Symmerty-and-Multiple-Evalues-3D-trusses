@@ -137,11 +137,11 @@
 If you've used this work in your research or find it useful in any way, please consider to cite:
 ```
 @misc{SS_KK_EV2024,
-  author = {Sun, Shyiyao and Khandelwal, Kapil},
+  author = {Sun, Shiyao and Khandelwal, Kapil},
   title = {Structural Symmetry, Multiplicity, and Differentiability of Eigenfrequencies},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses}},
+  howpublished = {\url{https://github.com/cpssldomain/Symmetry-and-Multiple-Evalues-3D-trusses}},
   }
 ```
