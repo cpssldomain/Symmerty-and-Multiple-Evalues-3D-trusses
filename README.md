@@ -1,5 +1,5 @@
 # Symmetry and Differentiability of Multiple Evals: 3D Truss
-# Authors: Shiyao Sun (ssun4@nd.edu) and Kapil Khandelwal (kapil.khandelwal@nd.edu)
+## Authors: Shiyao Sun (ssun4@nd.edu) and Kapil Khandelwal (kapil.khandelwal@nd.edu)
 ## 1. Published Matlab Script
 **Link:** [Published script for this project](https://htmlpreview.github.io/?https://github.com/cpssldomain/Symmerty-and-Multiple-Evalues-3D-trusses/blob/main/html/main.html) <br /><br />
 **Preview:** 
